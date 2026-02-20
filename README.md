@@ -7,7 +7,7 @@
 [![Website](https://img.shields.io/badge/Website-alexis--herrera.ameinnovate.com-blue?style=flat-square)](https://alexis-herrera.ameinnovate.com)
 [![GitHub](https://img.shields.io/badge/GitHub-alexisherrera09-181717?style=flat-square&logo=github)](https://github.com/alexisherrera09)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexis%20Herrera-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/alexis-salvador-herrera-garcia-1b1442194)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:isc.alexisherrera.dtm@gmail.com)
+[![Email](https://img.shields.io/badge/Email-isc.alexisherrera.dtm@gmail.com-red?style=flat-square&logo=gmail)](mailto:isc.alexisherrera.dtm@gmail.com)
 [![Credly](https://img.shields.io/badge/Credly-Certifications-orange?style=flat-square)](https://www.credly.com/users/alexis-salvador-herrera-garcia)
 [![Location](https://img.shields.io/badge/Location-Veracruz,%20México-green?style=flat-square)]()
 
@@ -83,11 +83,14 @@ Actualmente explorando cómo IA puede potenciar desarrollo sin perder calidad me
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexisherrera09&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
+<a href="https://github.com/alexisherrera09">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexisherrera09&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexisherrera09&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF"/>
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexisherrera09&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF)
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=alexisherrera09&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+<a href="https://github.com/alexisherrera09">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=alexisherrera09&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+</a>
 
 </div>
 
@@ -173,7 +176,7 @@ Creé la aplicación "Descargas de hidrocarburos" con reportes en tiempo real, g
 
 [![Website](https://img.shields.io/badge/🌐-Website-blue?style=for-the-badge)](https://alexis-herrera.ameinnovate.com)
 [![LinkedIn](https://img.shields.io/badge/💼-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alexis-salvador-herrera-garcia-1b1442194)
-[![Email](https://img.shields.io/badge/📧-Email-red?style=for-the-badge&logo=gmail)](mailto:isc.alexisherrera.dtm@gmail.com)
+[![Email](https://img.shields.io/badge/📧-isc.alexisherrera.dtm@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:isc.alexisherrera.dtm@gmail.com)
 
 ---
 
