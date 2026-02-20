@@ -79,23 +79,6 @@ Actualmente explorando cómo IA puede potenciar desarrollo sin perder calidad me
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-<a href="https://github.com/alexisherrera09">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexisherrera09&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexisherrera09&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF"/>
-</a>
-
-<a href="https://github.com/alexisherrera09">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=alexisherrera09&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
-</a>
-
-</div>
-
----
-
 ## 🎓 Educación
 
 - **Maestría en Inteligencia Artificial** - UNIR México *(2025 - Presente)*
