@@ -5,6 +5,7 @@
 ### Technical Leader | Full Stack Architect | 12+ Years Building Scalable Solutions
 
 [![Website](https://img.shields.io/badge/Website-alexis--herrera.ameinnovate.com-blue?style=flat-square)](https://alexis-herrera.ameinnovate.com)
+[![GitHub](https://img.shields.io/badge/GitHub-alexisherrera09-181717?style=flat-square&logo=github)](https://github.com/alexisherrera09)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexis%20Herrera-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/alexis-salvador-herrera-garcia-1b1442194)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:isc.alexisherrera.dtm@gmail.com)
 [![Credly](https://img.shields.io/badge/Credly-Certifications-orange?style=flat-square)](https://www.credly.com/users/alexis-salvador-herrera-garcia)
@@ -82,15 +83,13 @@ Actualmente explorando cómo IA puede potenciar desarrollo sin perder calidad me
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexisherrera09&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexisherrera09&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF)
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=alexisherrera09&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
 
 </div>
-
-> **Nota:** Reemplaza `YOUR_USERNAME` con tu nombre de usuario de GitHub para mostrar tus estadísticas reales.
 
 ---
 
